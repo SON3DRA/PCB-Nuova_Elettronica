@@ -1,3 +1,3 @@
 # Nuova_Elettronica
-#
-#i pcb che ho riprodotto, usando Kicad
+
+i pcb che ho riprodotto, usando Kicad
